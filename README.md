@@ -4,7 +4,7 @@
 ***I'm not a data or computer scientist, neither the best writer nor graphic designer, so take my approach with a grain of salt, a fun experiment.***
 
 ## 👋 WELCOME! 
-To, task specific engineered instructive for ChatGPT and other LLM's. I'll use this space for posting Ai related prompt Instructive, and templates of my creation.
+To task specific engineered instructives for ChatGPT and other LLM's. I'll use this space for posting Ai related prompt Instructive, and templates of my creation.
 
 ## 🤔 MOTIVES
 I have only two motives for doing this:
