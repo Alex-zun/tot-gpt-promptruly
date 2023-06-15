@@ -1,5 +1,8 @@
 # MARKDOWN INSTRUCTIVE MODELS
 
+##⚠️ DISCLAIMER ⚠️
+***Im not a data or computer scientist, neither the best writer or graphic designer so take my approchs with a grain of salt, a fun experiment.***
+
 ## WELCOME! 👋
 To, task specific engineered instrutives for ChatGPT and other LLM's. I'll use this space for posting Ai related prompt Instructives, and templates of my creation.
 
@@ -7,7 +10,6 @@ To, task specific engineered instrutives for ChatGPT and other LLM's. I'll use t
 I have only two motives for doing this:
 1. Exploring and experimenting ChatGPT capabilities in creative endevours like writing novels, essays, scripts, plays, etc. You get the idea.
 2. Because its fun!, and I feel like sharing.
-
 
 ## CONTEXT
 In my exciment experimentation with ChatGPT on my creative endevours. I often found myself reading, watching, and testing too many prompts that could fullfil my needs; sadly with little or no concrete results. I find these alledgly _"Prompt Engineers"_ lacking of something fundamental an _'Oomph'_ or _'je ne sais quoi'_. I find GPT and LLM models in general flexible, well crafted smart tools and as any tool, used or guided in certain way makes the difference, exponencially communicating or doing unexpected things. Lots of prompts out there are overly-hyped, too simplistic, not even archieving more than two paragraph of text, these prompts are just that prompts. There is no indication, none that im aware of, that could guide GPT to write or do certain tasks. 
