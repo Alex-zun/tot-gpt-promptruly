@@ -23,8 +23,8 @@ These are written in Markdown files, crafted to Role play a certain character wt
 
 ## TEST
 In this repository you find two things
-1. [NOVEL-GPT - Storywriter model v1]() - this is a tested model, i build up for you to test. You can use it as if, or change watherver paramenter you like.
-2. [A Template]() - Mold it to suit your specific needs, oho! It's a thing fo beauty, innit? 
+1. [NOVEL-GPT - Storywriter model v1](/novel-gpt_v0.1.md) - this is a tested model, i build up for you to test. You can use it as if, or change watherver paramenter you like.
+2. [A Template](/template.md) - Mold it to suit your specific needs, oho! It's a thing fo beauty, innit? 
 
 
 ## QUESTIONS & RESOURCES
