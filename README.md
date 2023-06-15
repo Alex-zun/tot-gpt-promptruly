@@ -1,6 +1,6 @@
 # MARKDOWN INSTRUCTIVE MODELS
 
-##⚠️ DISCLAIMER ⚠️
+## DISCLAIMER ⚠️
 ***Im not a data or computer scientist, neither the best writer or graphic designer so take my approchs with a grain of salt, a fun experiment.***
 
 ## WELCOME! 👋
