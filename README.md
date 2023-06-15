@@ -17,7 +17,7 @@ Through several research, iterations and testing, I have composed a prompt engin
 
 
 ## MARKDOWN INSTRUCTIVE MODEL:
-The ***"Instructive model"***, is my input approach of prompt enginieering for _Large Language Models (LLM's)_ like [ChatGPT](https://chat.openai.com/), [OpenAi Playground](https://platform.openai.com/playground) or any other llm model.
+The ***"Instructive model"***, is my input approach of prompt enginieering for _Large Language Models (LLM's)_ like [ChatGPT](https://chat.openai.com/), [OpenAi Playground](https://platform.openai.com/playground) or any other [LLM model](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard).
 These are written in Markdown files, crafted to Role play a certain character wtih well-tuned guides on how to perform by only completing a certain task using [Tree of thought Framework](https://github.com/princeton-nlp/tree-of-thought-llm) in several aspects of user interaction, outputs, and overall experience.
 
 
@@ -31,3 +31,4 @@ In this repository you find two things
 - Feel free to contact [alexzun030@gmail.com](alexzun030@gmail.com) or open an issue if you have any questions.
 - [OpenAi - Prompt Cookbook Repo](https://github.com/openai/openai-cookbook#prompting-libraries--tools) Examples and guides for using the OpenAI API.
 - [OpenAi - GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices) A useful guide on how to get better results using ChatGPT.
+- [LLM Models Leaderboard at Huggingfaces](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) a real-time tracker and evaluator of open-source LLMs and chatbots models as they are released.
