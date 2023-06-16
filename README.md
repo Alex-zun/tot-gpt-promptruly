@@ -29,7 +29,7 @@ These are written in Markdown files, crafted to Role-play a certain character wi
 In this repository, you find two things
 1. [NOVEL-GPT - Storywriter model v0.1](https://github.com/Alex-zun/tot-gpt-promptruly/blob/main/NOVEL-GPT_v0.1.md) - this is a tested model, i build up for you to test. You can use it as if, or change watherver parameter you like.
 2. [A Template](https://github.com/Alex-zun/tot-gpt-promptruly/blob/main/template.md) - Mold it to suit your specific needs, oho! It's a thing fo beauty, innit? 
-
+3. [Test-Transcript](https://github.com/Alex-zun/tot-gpt-promptruly/blob/main/Test-transcript.txt) - This is the text transcript of one session.
 
 ## ❓ QUESTIONS & RESOURCES
 - Feel free to contact [alexzun030@gmail.com](alexzun030@gmail.com) or open an issue if you have any questions.
